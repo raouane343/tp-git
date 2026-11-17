@@ -1,3 +1,5 @@
 Bonjour !
 Ceci est mon premier projet Git.
 Je suis en train d'apprendre Git et GitHub.
+Pourquoi les plongeurs plongent-ils toujours en arrière ?
+Parce que sinon ils tombent dans le bateau !
